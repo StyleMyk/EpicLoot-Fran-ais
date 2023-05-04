@@ -1,0 +1,9 @@
+{
+    "name": "EpicLoot_French",
+    "description": "Traduction en Français pour Epic Loot",
+    "version_number": "0.9.12",
+    "website_url": "https://valheim.thunderstore.io/package/RandyKnapp/EpicLoot/",
+    "dependencies": [
+        "RandyKnapp-EpicLoot-0.9.12"
+    ]
+}
