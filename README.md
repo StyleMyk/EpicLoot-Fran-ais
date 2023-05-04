@@ -16,6 +16,6 @@ Ici, vous ne trouverez pas comment installer le mod Epic Loot, il est pris en co
 
 
 ## Redirection vers Github
-He creado un repositorio por si alguien encuentra algún error y quiere enviarme cambios para aplicarlos a la traducción. Si yo voy corrigiendo cosas iré también actualizando el repositorio.
+J'ai créé un Github au cas où quelqu'un trouverait une erreur de traduction (voir des fautes) et voudrait m'envoyer des modifications à appliquer à la traduction. Si je corrige des choses, je mettrai également à jour le Github et Thunderstore.
 
 **[Redirection]([https://github.com/JuanCStar/epicloot-spanish-es-lang](https://github.com/StyleMyk/EpicLoot-Francais))**
