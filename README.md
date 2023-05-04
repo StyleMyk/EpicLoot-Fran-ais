@@ -2,13 +2,13 @@
 Traduction **NON OFFICIELLE** en Français du mod **Epic Loot** pour Valheim par **[RandyKnapp](https://valheim.thunderstore.io/package/RandyKnapp/EpicLoot/)**.
 
 ## Instalation
-**IMPORTANT:** Je vous conseil d'installer la traduction **MANUELLEMENT**, car il est probable que les programmes comme : Vortex, r2modman, etc... ne font pas l'installation correctement.
+**IMPORTANT:** Je vous conseille d'installer la traduction **MANUELLEMENT**, car il n'est probable que les programmes comme : Vortex, r2modman, etc... ne fonds pas l'installation correctement.
 
 **Installation manuelle:**
 - Installez le mod **[Epic Loot](https://valheim.thunderstore.io/package/RandyKnapp/EpicLoot/)** (si vous ête la, c'est que vous l'avez probablement déjà fait)
 - Téléchargez le la traduction.
 - Extrayez le fichier **translations.json** qui ce trouve dans le zip _**/BepInEx/plugins/EpicLoot**_.
-- Copiez ce fichier et coller le dans le répertoire de votre mod (_**/BepInEx/plugins/EpicLoot**_) (recherchez simplement où le mod Epic Loot a été installé et vous verrez qu'il existe un fichier du même nom).
+- Copier ce fichier et coller le dans le répertoire de votre mod (_**/BepInEx/plugins/EpicLoot**_) (recherchez simplement où le mod Epic Loot a été installé et vous verrez qu'il existe un fichier du même nom).
 - Remplacez le fichier déjà existant. Une fois cela fait, le mod devrait déjà être traduit correctement.
 
 ### AVERTISSEMENT
