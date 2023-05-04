@@ -1,4 +1,4 @@
-# EpicLoot-Francais
+# EpicLoot_Francais
 Traduction **NON OFFICIELLE** en Français du mod **Epic Loot** pour Valheim par **[RandyKnapp](https://valheim.thunderstore.io/package/RandyKnapp/EpicLoot/)**.
 
 ## Instalation
